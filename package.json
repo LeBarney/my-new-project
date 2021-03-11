@@ -2,5 +2,7 @@
   "name": "my-new-project",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/LeBarney/my-new-project.git",
+  "author": "LeBarney <barneywarframe@gmail.com>"
 }
